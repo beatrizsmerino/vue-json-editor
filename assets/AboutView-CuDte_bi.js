@@ -1,0 +1,1 @@
+import{n as t}from"./index-PYb2ljIE.js";const _={name:"AboutView"};var a=function(){var e=this;return e._self._c,e._m(0)},s=[function(){var n=this,e=n._self._c;return e("div",{staticClass:"page__inner page__container"},[e("h1",{staticClass:"page__title"},[n._v(" This is an about page ")])])}],r=t(_,a,s,!1,null,null);const o=r.exports;export{o as default};
